@@ -37,15 +37,6 @@ Me chamo Cristian Barboza, tenho 20 anos e sou natural de Marica - RJ. Atualment
 
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="SASS" 
     title="SASS"
     width="30px" 
@@ -61,6 +52,7 @@ Me chamo Cristian Barboza, tenho 20 anos e sou natural de Marica - RJ. Atualment
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Python" 
@@ -69,6 +61,7 @@ Me chamo Cristian Barboza, tenho 20 anos e sou natural de Marica - RJ. Atualment
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Mysql" 
