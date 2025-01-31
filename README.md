@@ -1,6 +1,6 @@
 # 👨🏼‍💻 Cristian Barboza
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front-end`**
 
 Me chamo Cristian Barboza, tenho 20 anos e sou natural de Marica - RJ. Atualmente, estou cursando Engenharia de Software na Universidade de Vassouras. Sou apaixonada por tecnologia e compartilho meus projetos através desse perfil e também no linkedIn.
 
@@ -17,6 +17,7 @@ Me chamo Cristian Barboza, tenho 20 anos e sou natural de Marica - RJ. Atualment
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
@@ -36,20 +37,13 @@ Me chamo Cristian Barboza, tenho 20 anos e sou natural de Marica - RJ. Atualment
 
 <img 
     align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Next.js" 
     title="Next.js"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
+
 <img 
     align="left" 
     alt="SASS" 
@@ -57,22 +51,6 @@ Me chamo Cristian Barboza, tenho 20 anos e sou natural de Marica - RJ. Atualment
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
 
 <img 
