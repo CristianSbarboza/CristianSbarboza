@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Cristian Barboza, tenho 20 anos e sou de Marica - RJ. Atualmente, estou cursando Engenharia de Software na Universidade de Vassouras. Sou apaixonada por tecnologia e compartilho meus projetos através desse perfil e também no linkedIn.
+Me chamo Cristian Barboza, tenho 20 anos e sou de Marica - RJ. Atualmente, estou cursando Engenharia de Software na Universidade de Vassouras. Sou apaixonado por tecnologia e compartilho meus projetos através desse perfil e também no linkedIn.
 
 
 ---
