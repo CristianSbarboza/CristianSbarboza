@@ -2,7 +2,25 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Cristian Barboza, tenho 20 anos e sou de Marica - RJ. Atualmente, estou cursando Engenharia de Software na Universidade de Vassouras. Sou apaixonado por tecnologia e compartilho meus projetos através desse perfil e também no linkedIn.
+Me chamo Cristian Barboza, tenho 20 anos e sou de Marica - RJ. Atualmente, estou cursando Engenharia de Software na Universidade de Vassouras. Sou apaixonado por tecnologia web2/web3 e compartilho meus projetos através desse perfil e também no linkedIn.
+
+"De ferramentas e Hums a Códigos, Inovação e Blockchain."
+
+Comecei minha trajetória na área técnica como estagiário de manutenção de helicópteros na Omni Táxi Aéreo, onde desenvolvi habilidades práticas, disciplina e trabalho em equipe em um ambiente altamente técnico e exigente.
+
+Após concluir esse ciclo, decidi focar totalmente na minha carreira em tecnologia. Fui convidado a apresentar a Nosana, um projeto de tecnologia descentralizada, no Seminário de Robótica promovido pela incubadora de inovação social, uma experiência que abriu novas portas para minha carreira e me motivou a explorar áreas como blockchain, computação descentralizada e inteligência artificial.
+
+Hoje, busco unir os estudos em web2 e web3, estudando constantemente temas como:
+
+Blockchain (Nosana, Akash, IO.Net)
+
+Computação descentralizada e IA distribuída
+
+Desenvolvimento front-end (HTML, CSS, React, Typescript, Tailwind)
+
+Cloud, APIs e hospedagem web
+
+Atualmente me desenvolvo como um profissional multidisciplinar, com os olhos no futuro e os pés firmes na base que estou construindo.
 
 
 ---
