@@ -12,9 +12,7 @@ Após concluir esse ciclo, decidi focar totalmente na minha carreira em tecnolog
 
 Hoje, busco unir os estudos em web2 e web3, estudando constantemente temas como:
 
-Blockchain (Nosana, Akash, IO.Net)
-
-Computação descentralizada e IA distribuída
+Blockchain, Computação descentralizada e IA distribuída
 
 Desenvolvimento front-end (HTML, CSS, React, Typescript, Tailwind)
 
