@@ -1,6 +1,6 @@
 # 👨🏼‍💻 Cristian Barboza
 
-**`Developer Front-end and blockchain student`**
+**`Developer Front-end`**
 
 Me chamo Cristian Barboza, tenho 21 anos e sou de Marica - RJ. Atualmente, estou cursando Engenharia de Software na Universidade de Vassouras. Sou apaixonado por tecnologia web2/web3 e compartilho meus projetos através desse perfil e também no linkedIn.
 
@@ -32,6 +32,22 @@ Atualmente me desenvolvo como um profissional multidisciplinar, com os olhos no 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NextJS" 
+    title="NextJS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/next/next-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NestJS" 
+    title="NestJS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nest/nest-original.svg" 
 />
 
 <img 
