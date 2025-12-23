@@ -128,6 +128,14 @@ Atualmente me desenvolvo como um profissional multidisciplinar, com os olhos no 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
+<img 
+    align="left" 
+    alt="" 
+    title=""
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
 
 <br/>
 <br/>
