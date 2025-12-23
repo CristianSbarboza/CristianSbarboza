@@ -39,7 +39,7 @@ Atualmente me desenvolvo como um profissional multidisciplinar, com os olhos no 
     title="NextJS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/next/next-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 <img 
     align="left" 
@@ -47,7 +47,7 @@ Atualmente me desenvolvo como um profissional multidisciplinar, com os olhos no 
     title="NestJS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nest/nest-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
 />
 
 <img 
